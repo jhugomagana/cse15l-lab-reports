@@ -12,6 +12,21 @@ First, we need to head over to the <a href="https://code.visualstudio.com/">Visu
 ![fun jelly placeholder](https://cdn.vox-cdn.com/thumbor/itq6pDCz1YU_jpjTVLhVwxnqBjU=/46x0:552x337/1400x1400/filters:focal(46x0:552x337):format(gif)/cdn.vox-cdn.com/uploads/chorus_image/image/49497833/jelly.0.0.gif)
 
 ### Remotely Connecting
+> ***Before you connect***
+>> if we’re on a Windows machine: install this program first - <a href="hhttps://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse">OpenSSH</a>
+>> Then, jot down your course-specific account for CSE15L using the <a href="https://sdacs.ucsd.edu/~icc/index.php">Account Lookup tool</a> and it should look familiar to this:
+```bash
+cs15lwi22zz
+```
+
+Moving on to VSCode press **Ctrl** or **Command + `**, or use the Terminal → New Terminal menu option to open up a ***terminal***.
+>> *from here on out, our command will look like the below, but with the zz replaced to reflect our own course-specific account (term/year will also change to reflect the current term).*
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight">
+    <pre class="highlight">
+        <code>$ ssh cs15lwi22zz@ieng6.ucsd.edu </code>
+    </pre>
+</div></div>
 
 ### Trying Some Commands
 
