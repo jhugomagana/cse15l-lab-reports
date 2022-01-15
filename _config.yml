@@ -1,7 +1,9 @@
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: cse15l-lab-reports
-description: lab report blogs and tutorial
+description: tutorial blogs :)
 show_downloads: true
-theme:
 markdown: kramdown
 kramdown:
   input: GFM
