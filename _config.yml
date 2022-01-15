@@ -1,5 +1,7 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
+title: cse15l-lab-reports
+description: lab report blogs and tutorial
 show_downloads: true
-google_analytics:
 theme: jekyll-theme-hacker
+markdown: kramdown
+kramdown:
+  input: GFM
