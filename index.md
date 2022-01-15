@@ -2,22 +2,22 @@
 layout: default
 ---
 
-# **¡Hola, mundo!**    
+# **¡Hola, Mundo!**    
 ```bash
 jhugo@cloud9:~$ ssh cs15lzzz@ieng6.ucsd.edu
 ...
 [cs15lzzz@ieng6-203]:~:23$ ./Hola
-Hola, mundo! Que tal estamos? :)
+Hola, Mundo! Que tal estamos? :)
 [cs15lzzz@ieng6-203]:~:24$
 ```
 
 
-> ## Welcome to my personal site! Here we will go over the various  
-> ## various *Software Tools & Techniques* covered during the Labs :)
+## Welcome to my personal site! Here we will go over the various <br>
+## various **Software Tools & Techniques** covered during the Labs :)
 
->> ### The purpose of this blog is to:  
->> * write a tutorial for incoming **cse15L** students
->> * and to keep a personal record/portfolio in light of a future self :)
+> ### The purpose of this blog is to:  
+> * write a tutorial for incoming **cse15l** students
+> * and to keep a personal record/portfolio in light of a *future self* :)
 
 ### I hope these help, and best of luck to you all -
 
