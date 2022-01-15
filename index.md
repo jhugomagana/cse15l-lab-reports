@@ -1,6 +1,6 @@
 # **¡Hola, mundo!**  
-<details>
-<summary>Haz clic aquí</summary>
+<!-- <details>
+<summary>Haz clic aquí</summary> -->
 
 `ssh cs15lzzz@ieng6.ucsd.edu`
 
@@ -9,7 +9,7 @@
 Hola, mundo! Que tal?
 ```
 
-</details>
+<!-- </details> -->
 
 * [Lab Report 1](lab-report-1-week-2.html)
 * [Lab Report 1](https://jhugomagana.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
