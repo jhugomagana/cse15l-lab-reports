@@ -7,15 +7,15 @@
 ***
 
 ### Installing VScode
-First, we need to head over to the Visual Studio Code website https://code.visualstudio.com/, and follow the instructions there to download the appropriate version for our OS and install it onto our computer. When it is installed, we should be able to open a window that looks like this (depending on our system/settings, it may reflect different colors or menu bar):
+First, we need to head over to the <a href="https://code.visualstudio.com/">Visual Studio Code website</a>, and follow the instructions there to download the appropriate version for our OS and install it onto our computer. Once installed, we should be able to open a window that looks like this (note that depending on our system/settings, it may reflect different colors or menu bar):
 
-![fun jelly placeholder :)](https://cdn.vox-cdn.com/thumbor/itq6pDCz1YU_jpjTVLhVwxnqBjU=/46x0:552x337/1400x1400/filters:focal(46x0:552x337):format(gif)/cdn.vox-cdn.com/uploads/chorus_image/image/49497833/jelly.0.0.gif)
+![fun jelly placeholder](https://cdn.vox-cdn.com/thumbor/itq6pDCz1YU_jpjTVLhVwxnqBjU=/46x0:552x337/1400x1400/filters:focal(46x0:552x337):format(gif)/cdn.vox-cdn.com/uploads/chorus_image/image/49497833/jelly.0.0.gif)
 
 ### Remotely Connecting
 
 ### Trying Some Commands
 
-### Moving Files with <mark>`scp`</mark>
+### Moving Files with **`scp`**
 
 ### Setting an SSH Key
 
