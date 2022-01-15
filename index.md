@@ -2,12 +2,14 @@
 
 <details>
   <summary>Haz clic aqui</summary>
+  <p>
   
-  `ssh cs15lzzz@ieng6.ucsd.edu`
+  `ssh cs15lzzz@ieng6.ucsd.edu`  
   ```console
   [cs15lzzz@ieng6-203]:~:23$ ./Hola
   Hola, mundo! Que tal estamos? :)
-  ```
+  ```  
+  </p>  
 </details>
 
 * [Lab Report 1](lab-report-1-week-2.html)
