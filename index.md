@@ -1,22 +1,27 @@
 # **¡Hola, mundo!**  
 
-<details>
-<summary>Haz clic aqui</summary>
-<p>
-
 `ssh cs15lzzz@ieng6.ucsd.edu`  
 ```console
 [cs15lzzz@ieng6-203]:~:23$ ./Hola
 Hola, mundo! Que tal estamos? :)
 ```
 
-</p>  
-</details>
+## Welcome to my personal site where I will go over the various *Software Tools & Techniques*
+## covered in Lab :)
+### The purpose of this blog is to:  
+> * write a tutorial for incoming **cse15L** students
+> * and to keep a personal record/portfolio in light of a future self :)
+
+### I hope these help, and best of luck to you all -
 
 * [Lab Report 1](lab-report-1-week-2.html)
-* [Lab Report 1](https://jhugomagana.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+* Lab Report 2
+* Lab Report 3
+* Lab Report 4
+* Lab Report 5
+<!-- * [Lab Report 1](https://jhugomagana.github.io/cse15l-lab-reports/lab-report-1-week-2.html) e.g. absolute path link -->
 
-> `Jose Hugo - jellyfish`
-> ![Image](https://cdn.vox-cdn.com/thumbor/itq6pDCz1YU_jpjTVLhVwxnqBjU=/46x0:552x337/1400x1400/filters:focal(46x0:552x337):format(gif)/cdn.vox-cdn.com/uploads/chorus_image/image/49497833/jelly.0.0.gif)
-
-<img src="https://cdn.vox-cdn.com/thumbor/itq6pDCz1YU_jpjTVLhVwxnqBjU=/46x0:552x337/1400x1400/filters:focal(46x0:552x337):format(gif)/cdn.vox-cdn.com/uploads/chorus_image/image/49497833/jelly.0.0.gif" alt="jelly" width="200"/>
+#### *Created by* : `Jose Hugo - jellyfish`
+<!-- > ![Image](https://cdn.vox-cdn.com/thumbor/itq6pDCz1YU_jpjTVLhVwxnqBjU=/46x0:552x337/1400x1400/filters:focal(46x0:552x337):format(gif)/cdn.vox-cdn.com/uploads/chorus_image/image/49497833/jelly.0.0.gif) e.g. in Markdown -->
+<!-- include image and resize -->
+<img src="https://cdn.vox-cdn.com/thumbor/itq6pDCz1YU_jpjTVLhVwxnqBjU=/46x0:552x337/1400x1400/filters:focal(46x0:552x337):format(gif)/cdn.vox-cdn.com/uploads/chorus_image/image/49497833/jelly.0.0.gif" alt="jelly" width="300"/>
