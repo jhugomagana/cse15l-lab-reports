@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # **¡Hola, mundo!**    
 ```console
 jhugo@cloud9:~$ ssh cs15lzzz@ieng6.ucsd.edu
