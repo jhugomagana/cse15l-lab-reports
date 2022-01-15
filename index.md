@@ -1,14 +1,14 @@
 # **¡Hola, mundo!**  
-<!-- <details>
-<summary>Haz clic aquí</summary> -->
+
 <details>
-  <summary>`ssh cs15lzzz@ieng6.ucsd.edu`</summary>
-```console
-[cs15lzzz@ieng6-203]:~:23$ ./Hola
-Hola, mundo! Que tal?
-```
+  <summary>Haz clic aqui</summary>
+  
+  `ssh cs15lzzz@ieng6.ucsd.edu`
+  ```console
+  [cs15lzzz@ieng6-203]:~:23$ ./Hola
+  Hola, mundo! Que tal estamos? :)
+  ```
 </details>
-<!-- </details> -->
 
 * [Lab Report 1](lab-report-1-week-2.html)
 * [Lab Report 1](https://jhugomagana.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
