@@ -1,7 +1,7 @@
 title: cse15l-lab-reports
 description: lab report blogs and tutorial
 show_downloads: true
-theme: jekyll-theme-hacker
+theme:
 markdown: kramdown
 kramdown:
   input: GFM

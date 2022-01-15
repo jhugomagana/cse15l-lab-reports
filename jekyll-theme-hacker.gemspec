@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name          = "cse15l-lab-reports"
-  s.version       = "0.0.0"
+  s.version       = " "
   s.license       = " "
   s.authors       = ["jhugomagana"]
   s.email         = ["jhmagana@ucsd.edu"]
