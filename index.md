@@ -3,7 +3,7 @@ layout: default
 ---
 
 # **¡Hola, mundo!**    
-```console
+```bash
 jhugo@cloud9:~$ ssh cs15lzzz@ieng6.ucsd.edu
 ...
 [cs15lzzz@ieng6-203]:~:23$ ./Hola
