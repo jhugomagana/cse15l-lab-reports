@@ -7,3 +7,4 @@ show_downloads: true
 markdown: kramdown
 kramdown:
   input: GFM
+highlighter: rouge
