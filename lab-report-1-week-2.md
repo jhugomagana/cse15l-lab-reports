@@ -20,13 +20,11 @@ cs15lwi22zz
 ```
 
 Moving on to VSCode press **Ctrl** or **Command + `**, or use the Terminal → New Terminal menu option to open up a ***terminal***.
->> *from here on out, our command will look like the below, but with the zz replaced to reflect our own course-specific account (term/year will also change to reflect the current term).*
+>> *from here on out, our command will look like the one below, but with the **zz** replaced to reflect our individual and unique course-specific account sequence (note also that term/year will change).*
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight">
-    <pre class="highlight">
-        <code>$ ssh cs15lwi22zz@ieng6.ucsd.edu </code>
-    </pre>
-</div></div>
+```bash
+$ ssh cs15lwi22zz@ieng6.ucsd.edu </code>
+```
 
 ### Trying Some Commands
 
