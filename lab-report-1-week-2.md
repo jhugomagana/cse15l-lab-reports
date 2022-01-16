@@ -9,7 +9,7 @@
 ### Installing VScode
 First, we need to head over to the <a href="https://code.visualstudio.com/">Visual Studio Code website</a>, and follow the instructions there to download the appropriate version for our OS and install it onto our computer. Once installed, we should be able to open a window that looks like this (note that depending on our system/settings, it may reflect different colors or menu bar):
 
-![fun jelly placeholder](https://cdn.vox-cdn.com/thumbor/itq6pDCz1YU_jpjTVLhVwxnqBjU=/46x0:552x337/1400x1400/filters:focal(46x0:552x337):format(gif)/cdn.vox-cdn.com/uploads/chorus_image/image/49497833/jelly.0.0.gif)
+<img src="assets\images\000.JPG" alt="VScode" width="800"/>
 
 ### Remotely Connecting
 > ***Before you connect***
@@ -25,7 +25,7 @@ Moving on to VSCode press **Ctrl** or **Command + `**, or use the Terminal → N
 ```bash
 $ ssh cs15lwi22zz@ieng6.ucsd.edu
 ```
-<video src="assets\images\ssh_ieng6_VScode.mp4" controls="controls" style="max-width: 730px;">
+<video src="assets\images\ssh_ieng6_VScode.mp4" controls="controls" style="max-width: 1000px;">
 </video>
 
 ### Trying Some Commands
