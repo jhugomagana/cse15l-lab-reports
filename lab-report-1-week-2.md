@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Lab Report 1 – Week 2
 ## Remote Access into the `ieng6` Server
 > **Lab overview and tasks:**
