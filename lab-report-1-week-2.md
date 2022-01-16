@@ -25,6 +25,8 @@ Moving on to VSCode press **Ctrl** or **Command + `**, or use the Terminal → N
 ```bash
 $ ssh cs15lwi22zz@ieng6.ucsd.edu
 ```
+<video src="assets\images\ssh_ieng6_VScode.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 ### Trying Some Commands
 
