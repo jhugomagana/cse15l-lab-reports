@@ -23,7 +23,7 @@ Moving on to VSCode press **Ctrl** or **Command + `**, or use the Terminal → N
 >> *from here on out, our command will look like the one below, but with the **zz** replaced to reflect our individual and unique course-specific account sequence (note also that term/year will change).*
 
 ```bash
-$ ssh cs15lwi22zz@ieng6.ucsd.edu </code>
+$ ssh cs15lwi22zz@ieng6.ucsd.edu
 ```
 
 ### Trying Some Commands
