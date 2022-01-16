@@ -9,7 +9,7 @@
 ### Installing VScode
 First, we need to head over to the <a href="https://code.visualstudio.com/">Visual Studio Code website</a>, and follow the instructions there to download the appropriate version for our OS and install it onto our computer. Once installed, we should be able to open a window that looks like this (note that depending on our system/settings, it may reflect different colors or menu bar):
 
-<img src="assets\images\000.JPG" alt="VScode" width="800"/>
+<img src="assets\images\000.JPG" alt="VScode" width="1000"/>
 
 ### Remotely Connecting
 > ***Before you connect***
