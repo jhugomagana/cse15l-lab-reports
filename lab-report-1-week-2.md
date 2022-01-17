@@ -20,9 +20,7 @@ First, we need to head over to the <a href="https://code.visualstudio.com/">Visu
 > ***Before you connect***
 >> if we’re on a Windows machine: install this program first - <a href="hhttps://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse">OpenSSH</a>
 >> Then, jot down your course-specific account for CSE15L using the <a href="https://sdacs.ucsd.edu/~icc/index.php">Account Lookup tool</a> and it should look familiar to this:
-```bash
-cs15lwi22zz
-```
+```cs15lwi22zz```
 
 Moving on to VSCode press **Ctrl** or **Command + `**, or use the Terminal → New Terminal menu option to open up a ***terminal***.
 >> *from here on out, our command will look like the one below, but with the **zz** replaced to reflect our individual and unique course-specific account sequence (note also that term/year will change).*
@@ -30,10 +28,35 @@ Moving on to VSCode press **Ctrl** or **Command + `**, or use the Terminal → N
 ```bash
 $ ssh cs15lwi22zz@ieng6.ucsd.edu
 ```
+below is also a quick demo for reference:
+
 <video src="assets\images\ssh_ieng6_VScode.mp4" controls="controls" style="max-width: 1000px;">
 </video>
+In case it is your first time logging into your account over ssh, you might come across this message below before entering your password. If this is true, enter {yes} and proceed to entering your password - see below for reference:
+```bash
+ssh cs15lwi22zz@ieng6.ucsd.edu # press enter
+The authenticity of host 'ieng6-202.ucsd.edu (128.54.70.227)' can't be established.
+RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? # type - yes
+Password:
+Last login: Sun Jan  2 14:03:05 2022 from 107-217-10-235.lightspeed.sndgca.sbcglobal.net
+quota: No filesystem specified.
+Hello cs15lwi22zz, you are currently logged into ieng6-203.ucsd.edu
+
+You are using 0% CPU on this system
+
+Cluster Status
+Hostname     Time    #Users  Load  Averages  
+ieng6-201   23:25:01   0  0.08,  0.17,  0.11
+ieng6-202   23:25:01   1  0.09,  0.15,  0.11
+ieng6-203   23:25:01   1  0.08,  0.15,  0.11
+
+Sun Jan 02, 2022 11:28pm - Prepping cs15lwi22
+[cs15lwi22zz@ieng6-203]:~:31$
+```
 
 ### Trying Some Commands
+Try running the commands `cd`, `ls`, `pwd`, `mkdir`, and `cp` a few times on both your computer and on the remote computer - note that some of these commands are not recognized on **Windows cmd** until you you ssh into the remote computer's **bash shell**
 
 ### Moving Files with **`scp`**
 
