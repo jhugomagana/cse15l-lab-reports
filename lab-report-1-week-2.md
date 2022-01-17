@@ -28,13 +28,13 @@ Moving on to VSCode press **Ctrl** or **Command + `**, or use the Terminal → N
 ```bash
 $ ssh cs15lwi22zz@ieng6.ucsd.edu
 ```
-below is also a quick demo for reference:
+（✿ ͡◕ ᴗ◕)つ━━✫・*。check out below for a kwik reference:
 
 <video src="assets\images\ssh_ieng6_VScode.mp4" controls="controls" style="max-width: 1000px;">
 </video>
 In case it is your first time logging into your account over ssh, you might come across this message below before entering your password. If this is true, enter {yes} and proceed to entering your password - see below for reference:
 ```bash
-ssh cs15lwi22zz@ieng6.ucsd.edu # press enter
+jhugo@local:~$ ssh cs15lwi22zz@ieng6.ucsd.edu # press enter
 The authenticity of host 'ieng6-202.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? # type - yes
