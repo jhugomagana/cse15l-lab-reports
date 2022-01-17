@@ -8,3 +8,11 @@ markdown: kramdown
 kramdown:
   input: GFM
 highlighter: rouge
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /img/logo.jpg
+        height: 630
+        width: 1200
