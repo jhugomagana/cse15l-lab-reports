@@ -56,7 +56,10 @@ Sun Jan 02, 2022 11:28pm - Prepping cs15lwi22
 ```
 
 ### Trying Some Commands
-Try running the commands `cd`, `ls`, `pwd`, `mkdir`, and `cp` a few times on both your computer and on the remote computer - note that some of these commands are not recognized on **Windows cmd** until you you ssh into the remote computer's **bash shell**
+Try running the commands `cd`, `ls`, `pwd`, `mkdir`, and `cp` a few times on both your computer and on the remote computer - note that some of these commands are not recognized on **Windows cmd** but will work once you ssh into the remote computer's **bash shell**. If you are on a Mac, notice the similarities since both their ***kernels*** *are derived from a common ancestor ...*
+> see below for some specific useful commands in action - will come in handy to navigate around the file system through a terminal
+
+
 
 ### Moving Files with **`scp`**
 
