@@ -18,15 +18,13 @@ layout: default
 ### Getting Started
 Before we can begin, you might want to have the [starter code](https://github.com/ucsd-cse15l-w22/markdown-parse) provided by Joe in hand - makes it easier to follow along.
 Below is a quick recap of what the starter code is supposed to achieve
-<video src="assets\images\week4intro.mp4" controls="controls" style="max-width: 1000px;">
-</video>
+<video src="assets\images\week4.intro.mp4" controls="controls" style="max-width: 1000px;"></video>
 For more reference - link over to this vid to see the code as it's being typed out and get a better intuition of the starter code's base logic.
 (ﾐዋ ﻌ ዋﾐ)ﾉ https://youtu.be/_y9hkrN9k3w
 
 
 ### Bug fix #1
-<video src="assets\images\testCase1.mp4" controls="controls" style="max-width: 1000px;">
-</video>
+<video src="assets\images\testCase1.mp4" controls="controls" style="max-width: 1000px;"></video>
 
 ### Bug fix #2
 
