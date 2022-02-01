@@ -34,7 +34,7 @@ Hola, Mundo! Que tal estamos? :)
 <img src="https://cdn.vox-cdn.com/thumbor/itq6pDCz1YU_jpjTVLhVwxnqBjU=/46x0:552x337/1400x1400/filters:focal(46x0:552x337):format(gif)/cdn.vox-cdn.com/uploads/chorus_image/image/49497833/jelly.0.0.gif" alt="jelly" width="300"/>
 
 ***
-<audio controls volume="0.2" loop autoplay>
+<audio preload="metadata" controls loop autoplay>
   <source src="assets\images\Tower of Lahja - Ninja Gaiden II_ The Dark Sword of Chaos (128 kbps).mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
