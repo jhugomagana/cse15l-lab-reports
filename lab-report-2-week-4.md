@@ -9,7 +9,9 @@ layout: default
 # ヽ༼ ಠ益ಠ ༽ﾉ
 >>In this blog post, we will cover how to use sample **Failure-inducing input** *( ...inducing say-what ?)* while learning to cope ಥ_ಥ with debugging. I joke, but you know what - it's totally normal to get frustrated with debugging from time to time. A good thing you will pick up from this class is why *attitude* weighs **heavy** when debugging to not break more code -and- if you learn to start small (incrementally) you start smart :) 
 >>Check this [article](https://jvns.ca/blog/debugging-attitude-matters/) provided in lab for example:
+
 <img src="https://pbs.twimg.com/media/EVfh7xaXsAAJa3E?format=jpg&amp;name=large">
+
 >> Laying it all in the table ┬─┬ノ(ಠ_ಠノ) ... one can see better ways of debugging and the things avoid. Refer to more resources from lab at the END of the page :)
 
 # ┬┴┬┴┤ᵒᵏ (･_├┬┴┬┴

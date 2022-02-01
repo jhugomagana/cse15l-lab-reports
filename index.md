@@ -35,6 +35,6 @@ Hola, Mundo! Que tal estamos? :)
 
 ***
 <audio preload="metadata" controls loop autoplay>
-  <source src="assets\images\Tower of Lahja - Ninja Gaiden II_ The Dark Sword of Chaos (128 kbps).mp3" type="audio/mpeg">
+  <source src="assets\images\Koji Kondo - _The Legend of Zelda (Theme)_ -- Chiptune Visualization _ NES NSF (128 kbps).mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
