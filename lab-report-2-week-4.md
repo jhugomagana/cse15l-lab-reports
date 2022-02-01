@@ -31,7 +31,7 @@ For more reference - link over to this vid to see the code as it's being typed o
 ### Bug fix #3
 
 ***
-<audio controls autostart="true">
+<audio controls loop autoplay>
   <source src="assets\images\Battle! (Wild Pokémon) medley (Gen 1 - Gen 8) - Arranged by DeadmanPR (128 kbps).mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
