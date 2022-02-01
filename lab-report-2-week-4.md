@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 
 # Lab Report 2 – Week 4
