@@ -32,6 +32,13 @@ body {
   margin: 0 auto;
 }
 
+#toRight {
+  position: fixed;
+  align-content: center;
+  background-position: center right;
+  z-index: 1;
+}
+
 section {
   display: block;
   margin: 0 0 20px 0;
