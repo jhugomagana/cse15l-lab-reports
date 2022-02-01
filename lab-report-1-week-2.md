@@ -66,3 +66,9 @@ Try running the commands `cd`, `ls`, `pwd`, `mkdir`, and `cp` a few times on bot
 ### Setting an SSH Key
 
 ### Optimizing Remote Running
+
+***
+<audio controls volume="0.2" loop autoplay>
+  <source src="assets\images\Donkey Kong Country OST 3 Simian Segue (64 kbps).mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
