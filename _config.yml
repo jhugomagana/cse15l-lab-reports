@@ -4,7 +4,7 @@ plugins:
 theme: jekyll-theme-hacker
 title: cse15l-lab-reports
 description: tutorial blogs :)
-date: `r format(Sys.time(), '%d %B, %Y')`
+date: "r format(Sys.time(), '%d %B, %Y')"
 author: Jose Hugo
 show_downloads: true
 markdown: kramdown
