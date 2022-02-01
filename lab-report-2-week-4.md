@@ -2,7 +2,7 @@
 layout: post
 ---
 
-<!-- # Lab Report 2 – Week 4 -->
+# Lab Report 2 – Week 4
 ## Incremental Programming and Debugging +
 ### Best Practices in version control and committing individual bug fixes
 > **Lab overview and tasks:**
@@ -28,6 +28,7 @@ As of now, the program can read-in a simple.md file as a parameter and will atte
 **déjà vu** Σ(-᷅_-᷄๑) *did i just create a link above*
 
 For more reference - link over to this vid from Joe as he walks us through the creation of this program. Hopefully this will give you better intuition of the starter code's base logic and methods
+
 ^.ᆽ.^=∫ [Markdown Parsing Starter Code](https://youtu.be/_y9hkrN9k3w)
 
 
