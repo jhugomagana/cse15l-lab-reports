@@ -28,7 +28,7 @@ Hola, Mundo! Que tal estamos? :)
 * Lab Report 5
 <!-- * [Lab Report 1](https://jhugomagana.github.io/cse15l-lab-reports/lab-report-1-week-2.html) e.g. absolute path link -->
 
-#### *Created by* : `Jose Hugo - jellyfish`
+#### *Created by* : `Jose Hugo - and here's a jellyfish`
 <!-- > ![Image](https://cdn.vox-cdn.com/thumbor/itq6pDCz1YU_jpjTVLhVwxnqBjU=/46x0:552x337/1400x1400/filters:focal(46x0:552x337):format(gif)/cdn.vox-cdn.com/uploads/chorus_image/image/49497833/jelly.0.0.gif) e.g. in Markdown -->
 <!-- include image and resize -->
 <img src="https://cdn.vox-cdn.com/thumbor/itq6pDCz1YU_jpjTVLhVwxnqBjU=/46x0:552x337/1400x1400/filters:focal(46x0:552x337):format(gif)/cdn.vox-cdn.com/uploads/chorus_image/image/49497833/jelly.0.0.gif" alt="jelly" width="300"/>

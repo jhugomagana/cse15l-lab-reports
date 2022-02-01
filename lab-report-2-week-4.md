@@ -2,7 +2,7 @@
 layout: post
 ---
 
-# Lab Report 2 – Week 4
+<!-- # Lab Report 2 – Week 4 -->
 ## Incremental Programming and Debugging +
 ### Best Practices in version control and committing individual bug fixes
 > **Lab overview and tasks:**
