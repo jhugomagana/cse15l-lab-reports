@@ -33,10 +33,12 @@ body {
 }
 
 #toRight {
-  position: absolute;
+  position: fixed;
   align-content: center;
-  right: -60;
+  right: 0;
   z-index: 1;
+  float:right;
+  margin-right: auto;
 }
 
 section {
