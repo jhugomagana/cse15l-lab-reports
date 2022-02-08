@@ -31,11 +31,11 @@ For more reference - link over to this vid from Joe as he walks us through the c
 
 ^.ᆽ.^=∫ [Markdown Parsing Starter Code](https://youtu.be/_y9hkrN9k3w)
 
-###### Intro Vid: encountering bugs
+### Intro Vid: encountering bugs
 <video src="assets\images\testCase1.mp4" controls="controls" style="max-width: 1000px;"></video>
 
 ### Bug fix #1
-##### The infinite loop -
+#### The infinite loop -
 <img src="assets\images\Fix1-diff.png" alt="" width="1000"/>
 
 [test-&alpha;.md](https://github.com/jhugomagana/markdown-parse/blob/fc35e33c774cf910f3ea9fabb9a518fa10283651/test-A.md)
@@ -54,7 +54,7 @@ one of many formats for including Markdown links.
 <img src="assets\images\testCase_alpha_bug.png" alt="" width="1000"/>
 <img src="assets\images\testCase_alpha_solution.png" alt="" width="1000"/>
 ### Bug fix #2
-##### True links vs image links -
+#### True links vs image links -
 <img src="assets\images\Fix2-diff.png" alt="" width="1000"/>
 
 [test-&beta;.md](https://github.com/jhugomagana/markdown-parse/blob/fc35e33c774cf910f3ea9fabb9a518fa10283651/test-B.md)
@@ -70,12 +70,13 @@ If you were to see the markdown format of this image, it nearly identical to lin
 ## EOF
 ```
 >![link](https://github.com/jhugomagana/cse15l-lab-reports/blob/main/assets/images/i_am_Link.jpg?raw=true)
+
 >Symptom observed:
 <img src="assets\images\testCase_beta_confuses_images.png" alt="" width="1000"/>
 <img src="assets\images\testCase_beta_solution.png" alt="" width="1000"/>
 
 ### Bug fix #3
-##### Defining true links even further -
+#### Defining true links even further -
 <img src="assets\images\Fix3-diff.png" alt="" width="1000"/>
 
 [test-&gamma;.md](https://github.com/jhugomagana/markdown-parse/blob/fc35e33c774cf910f3ea9fabb9a518fa10283651/test-G.md)
