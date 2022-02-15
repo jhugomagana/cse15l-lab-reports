@@ -29,7 +29,9 @@ Let's see this in action:
 >* we can use semicolons to run multiple commands on the same line in most terminals. For example: <br>`⤇ cp WhereAmI.java Copies/WhereaAmI.java; javac SomeOtherMain.java; java SomeOtherMain`
 >* and we can write a command in quotes at the end of an ssh command to directly run it on the remote server, then exit. For example, this command will log in and list the home directory on the remote server: <br>`⤇ ssh cs15lwi22@ieng6.ucsd.edu "ls"`<br>
 In that case, let's try using this command to copy the whole directory and run the tests in one line. <br>
-<pre>⤇ scp -r . cs15lwi22zzz@ieng6.ucsd.edu:~/markdown-parse ; ssh -t cs15lwi22aog@ieng6.ucsd.edu "cd markdown-parse-linux/ ; make test"</pre>
+```bash
+⤇ scp -r . cs15lwi22zzz@ieng6.ucsd.edu:~/markdown-parse ; ssh -t cs15lwi22aog@ieng6.ucsd.edu "cd markdown-parse-linux/ ; make test"
+```
 
 ### *was there an error? Why?*
 
@@ -47,7 +49,12 @@ After some research I learned the difference between ***Login Shells vs Interact
 ### To force a login to simulate a login shell after passing commands and run the commands w/ the appropriate path variables ⤇ we will run **ssh** and pass the `"bash --login"` string command ⤇ then within the simulated login shell we will pass in `-c 'env commands'` as a string within the first string... More importantly, to simulate the login shell remotely ⤇ we must include th `-t` flag after **ssh** to force pseudo-tty allocation, otherwise all else will not work!
 
 In our case, we will demonstrate this trick using the following command <br>
-<pre>⤇ scp -r . cs15lwi22zzz@ieng6.ucsd.edu:~/markdown-parse ; ssh -t cs15lwi22zzz@ieng6.ucsd.edu "bash --login -c 'cd markdown-parse/;make test'"</pre><br>in the vid below:
+
+```bash
+⤇ scp -r . cs15lwi22zzz@ieng6.ucsd.edu:~/markdown-parse ; ssh -t cs15lwi22zzz@ieng6.ucsd.edu "bash --login -c 'cd markdown-parse/;make test'"
+```
+
+<br>in the vid below:
 
 <video src="assets\images\week6-report3-vid_B.mp4" controls="controls" style="max-width: 1000px;"></video>
 
