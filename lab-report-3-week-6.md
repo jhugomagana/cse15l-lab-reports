@@ -46,7 +46,8 @@ After some research I learned the difference between ***Login Shells vs Interact
 
 ### To force a login to simulate a login shell after passing commands and run the commands w/ the appropriate path variables ⤇ we will run **ssh** and pass the `"bash --login"` string command ⤇ then within the simulated login shell we will pass in `-c 'env commands'` as a string within the first string... More importantly, to simulate the login shell remotely ⤇ we must include th `-t` flag after **ssh** to force pseudo-tty allocation, otherwise all else will not work!
 
-In our case, we will demonstrate this trick using the following command <br><pre>⤇ scp -r . cs15lwi22zzz@ieng6.ucsd.edu:~/markdown-parse ; ssh -t cs15lwi22zzz@ieng6.ucsd.edu "bash --login -c 'cd markdown-parse/;make test'"</pre><br>in the vid below:
+In our case, we will demonstrate this trick using the following command <br>
+<pre>⤇ scp -r . cs15lwi22zzz@ieng6.ucsd.edu:~/markdown-parse ; ssh -t cs15lwi22zzz@ieng6.ucsd.edu "bash --login -c 'cd markdown-parse/;make test'"</pre><br>in the vid below:
 
 <video src="assets\images\week6-report3-vid_B.mp4" controls="controls" style="max-width: 1000px;"></video>
 
