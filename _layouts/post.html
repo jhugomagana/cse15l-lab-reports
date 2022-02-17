@@ -2,13 +2,31 @@
 layout: default
 ---
 
-<small>{{ page.date | date: "%-d %B %Y" }}</small>
+<!-- <small>{{ page.date | date: "%-d %B %Y" }}</small> -->
 
 
 {{content}}
 
-<p class="view">by {{ page.author | default: site.author }}</p>
+<!-- template for images -->
+<body>
+  <div class="gallery">
+    <div class="img-container">
+      <img
+        src="assets\images\i_am_Link.jpg"
+        alt="I Am Link, Not Zelda"
+        data-original="assets\images\i_am_Link.jpg"
+      />
+    </div>
+  </div>
+  <div class="modal">
+    <img src="" alt="" class="full-img" />
+    <p class="caption"></p>
+  </div>
+  <script src="app.js"></script>
+</body>
+
+<!-- <p class="view">by {{ page.author | default: site.author }}</p>
 
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
-{% endif %}
+{% endif %} -->

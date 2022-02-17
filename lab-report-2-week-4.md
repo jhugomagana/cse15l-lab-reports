@@ -36,7 +36,16 @@ For more reference - link over to this vid from Joe as he walks us through the c
 
 ### Bug fix #1
 #### The infinite loop -
-<img class="markdown-preview-view" src="assets\images\Fix1-diff.png" alt="" width="1000"/>
+<div class="gallery">
+    <div class="img-container">
+      <img
+        src="assets\images\Fix1-diff.png"
+        alt="Fix 1 - Diff"
+        data-original="Fix1-diff.png"
+      />
+    </div>
+  </div>
+<!-- <img src="assets\images\Fix1-diff.png" alt="" width="1000"/> -->
 
 [test-&alpha;.md](https://github.com/jhugomagana/markdown-parse/blob/fc35e33c774cf910f3ea9fabb9a518fa10283651/test-A.md)
 ```
