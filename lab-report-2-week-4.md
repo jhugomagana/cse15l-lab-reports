@@ -45,6 +45,10 @@ For more reference - link over to this vid from Joe as he walks us through the c
       />
     </div>
   </div>
+  <div class="modal">
+        <img src="" alt="" class="full-img" />
+        <p class="caption"></p>
+  </div>
 <!-- <img src="assets\images\Fix1-diff.png" alt="" width="1000"/> -->
 
 [test-&alpha;.md](https://github.com/jhugomagana/markdown-parse/blob/fc35e33c774cf910f3ea9fabb9a518fa10283651/test-A.md)

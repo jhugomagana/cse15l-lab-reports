@@ -5,13 +5,18 @@
     }
 
     .gallery {
+        margin: 0;
+        padding: 0;
+        box-sizing: content-box;
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(1000px, 1fr));
         min-height: 100vh;
+        z-index: 5;
     }
 
     .img-container {
         overflow: hidden;
+        z-index: 5;
     }
 
     .img-container img {
@@ -27,7 +32,7 @@
 
     .modal {
         background: rgba( 0, 0, 0, 0.8);
-        position: fixed;
+        position: absolute;
         top: 0;
         left: 0;
         width: 100%;
@@ -35,11 +40,13 @@
         opacity: 0;
         pointer-events: none;
         transition: 0.25s ease-out;
+        z-index: 5;
     }
 
     .modal.open {
         opacity: 1;
         pointer-events: all;
+        z-index: 5;
     }
 
     .full-img {
